@@ -6,4 +6,4 @@ You can learn more about us at [interactivesnacks.com](https://interactivesnacks
 * [Ludum Dare](https://github.com/LudumDare) - one of the largest, longest running game jam events in the world
 * [Jammer Core](https://github.com/ludumdare) - the software that powers Ludum Dare and `jammer.id`
 * [Jammer Academy](https://github.com/JammerAcademy) - our game development education hub
-* [jammer.tv](https://github.com/jammer-tv/) - our live game development video aggregation project 
+* [jammer.tv](https://github.com/jammer-tv/) - live game development video steam aggregator 
